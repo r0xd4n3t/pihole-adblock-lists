@@ -2,7 +2,15 @@
 # Version: 1.0.2
 # Contact: r0xd4n3t
 # Homepage: https://github.com/r0xd4n3t
-# Last modified: 24-10-2023 09:14:42 PM
+# Last modified: 24-10-2023 09:15:33 PM
 # License: MIT license
 
 
+
+
+# Contact: r0xd4n3t
+# Homepage: https://github.com/r0xd4n3t
+# Last modified: 24-10-2023 09:14:42 PM
+# License: MIT license
+# Title: Pihole Adlist
+# Version: 1.0.2
