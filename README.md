@@ -12,6 +12,12 @@ Pi-hole Adlists
   </kbd>
 </p>
 
+<p align="center">
+<img src="https://img.shields.io/github/last-commit/r0xd4n3t/contabo-snapshot-automation?style=flat">
+<img src="https://img.shields.io/github/stars/r0xd4n3t/contabo-snapshot-automation?color=brightgreen">
+<img src="https://img.shields.io/github/forks/r0xd4n3t/contabo-snapshot-automation?color=brightgreen">
+</p>
+
 # Pi-hole Adlists
 
 This repository hosts a collection of adlists for use with [Pi-hole](https://pi-hole.net/), a network-wide ad blocker.
