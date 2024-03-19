@@ -13,9 +13,9 @@ Pi-hole Adlists
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/r0xd4n3t/contabo-snapshot-automation?style=flat">
-<img src="https://img.shields.io/github/stars/r0xd4n3t/contabo-snapshot-automation?color=brightgreen">
-<img src="https://img.shields.io/github/forks/r0xd4n3t/contabo-snapshot-automation?color=brightgreen">
+<img src="https://img.shields.io/github/last-commit/r0xd4n3t/pihole-adblock-lists?style=flat">
+<img src="https://img.shields.io/github/stars/r0xd4n3t/pihole-adblock-lists?color=brightgreen">
+<img src="https://img.shields.io/github/forks/r0xd4n3t/pihole-adblock-lists?color=brightgreen">
 </p>
 
 # Pi-hole Adlists
