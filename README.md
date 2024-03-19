@@ -30,7 +30,6 @@ Pi-hole is a network-level advertisement and internet tracker blocking applicati
 
 - **StevenBlack's hosts:** [Click here](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts)
 - **YouTube ads blocklist:** [Click here](https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/crowed_list.txt)
-- **CipherOps AdList:** [Click here](https://raw.githubusercontent.com/CipherOps/AdList/main/Blocklist)
 - **PolishFiltersTeam KADhosts:** [Click here](https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt)
 - **FadeMind's hosts extras:** [Click here](https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts)
 
