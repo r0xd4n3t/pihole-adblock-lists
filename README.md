@@ -6,7 +6,7 @@
 
 <p align="center"> 
   <kbd>
-    <img src="https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/img/adsx.jpg" alt="Pi-hole Adlists">
+    <img src="https://raw.githubusercontent.com/r0xd4n3t/pihole-adblock-lists/main/img/adsx.png" alt="Pi-hole Adlists">
   </kbd>
 </p>
 
