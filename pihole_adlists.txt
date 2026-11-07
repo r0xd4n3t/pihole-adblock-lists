@@ -3,9 +3,9 @@
 # Contact: r0xd4n3t
 # Homepage: https://github.com/r0xd4n3t
 # Donation: https://ko-fi.com/r0xd4n3t
-# Last modified: 07-11-2026 05:30:54 PM
+# Last modified: 07-11-2026 06:14:20 PM
 # License: MIT license
-# Total Lines: 2013924 lines
+# Total Lines: 2013941 lines
 
 0----q.tumblr.com
 0--4.com
@@ -87141,19 +87141,6 @@
 9zykaf.launches.appsflyersdk.com
 9zzeemgaxjvjlorosduulcjx070f21791266552.uaid.nmrodam.com
 9zzsextou.com
-AA52EA7E73864.bonactech.com
-ACTIVISIONCPPLUS.COM
-ANY.aeonpn.com
-Arnaud1477.nickoakleyphotography.co.uk
-Checkra1n.cc
-Desembolsasinlimitesperu.cloud
-Free-4paid.com
-GroUndHog.MapSnode.CoM
-MetLifePerInsurance.com
-MetLifemarket.com
-Shido.market
-Sunsystems.hk
-WWW.OFFICIALPAPER.COM.BR
 a--ds.com
 a--n--u--s.tumblr.com
 a-0-sex.skynetblogs.be
@@ -100715,6 +100702,7 @@ aa510.com
 aa512.com
 aa52.dichvummo.xyz
 aa522.com
+aa52ea7e73864.bonactech.com
 aa52jm08ly.com
 aa53df329975c325.com
 aa5527.com
@@ -109557,6 +109545,7 @@ activision.sc.omtrdc.net
 activision.ssl.sc.omtrdc.net
 activisionblizzard.company
 activisioncp.click
+activisioncpplus.com
 activisiongifts.org
 activisiongiveaway.com
 activisionnews.com
@@ -190437,6 +190426,7 @@ any-trades.com
 any-who.com
 any-xxx.com
 any.aeonoit.com
+any.aeonpn.com
 any.com.ua
 any.gs
 any.mybluehost.me
@@ -197340,6 +197330,7 @@ app.us0.observability.splunkcloud.com
 app.usajaguars.com
 app.usctrojans.com
 app.usdtoreros.com
+app.usercentrics.eu
 app.usnh.edu
 app.utahstateaggies.com
 app.utahtechtickets.com
@@ -202790,6 +202781,7 @@ arnatravels.com
 arnaud-degouy.tumblr.com
 arnaud-et-adelaiid.over-blog.com
 arnaud.gay
+arnaud1477.nickoakleyphotography.co.uk
 arnavfdgarrmz.blogspot.com
 arnaviroy.com
 arnavutkoyescort.net
@@ -220393,7 +220385,7 @@ autobzak.com
 autocar-dealers.pl
 autocar-deals.net.pl
 autocar-listwajan.net.pl
-autocar.ServeUser.com
+autocar.serveuser.com
 autocarcomprod.112.2o7.net
 autocareuropa.pl
 autocars24.pl
@@ -227358,6 +227350,7 @@ b-girl.net
 b-google.hl.cn
 b-graph-fallback.facebook.com
 b-graph.accountkit.com
+b-graph.facebook.com
 b-gtc.gepush.com
 b-gtc.getui.com
 b-gtc.getui.net
@@ -274312,10 +274305,10 @@ bing-app.org
 bing-google.hl.cn
 bing-pe.com
 bing-rewards.evyy.net
-bing.Roggstar.eu.dftt.krishnamclinic.talktodevelopers.com
 bing.com.office.default.andreas.myshn.eu
 bing.firefoxupdata.com
 bing.hk.cn
+bing.roggstar.eu.dftt.krishnamclinic.talktodevelopers.com
 bing51.com
 bingads.com
 bingads.microsoft.com
@@ -348569,6 +348562,7 @@ cdn.prebidly.com
 cdn.preciso.net
 cdn.premiumads.net
 cdn.premiumtag.net
+cdn.privacy-mgmt.com
 cdn.proadscdn.com
 cdn.prod.adskit.juno.alexa.amazon.dev
 cdn.prod.euid.eu
@@ -363242,6 +363236,7 @@ checkporno.ru
 checkporno.top
 checkporno.vip
 checkproduct.review
+checkra1n.cc
 checkrain.org
 checkreferrer.io
 checkroomworld.tumblr.com
@@ -383568,6 +383563,7 @@ cmp.huffingtonpost.fr
 cmp.impress.co.jp
 cmp.inews.co.uk
 cmp.infoworld.com
+cmp.inmobi.com
 cmp.itworld.com
 cmp.javaworld.com
 cmp.lavie.fr
@@ -383582,6 +383578,7 @@ cmp.netzwelt.de
 cmp.nouvelobs.com
 cmp.optad360.io
 cmp.optimizely.com
+cmp.osano.com
 cmp.pcwelt.de
 cmp.pcworld.com
 cmp.pcworld.es
@@ -396578,6 +396575,7 @@ consent.clientemais.paodeacucar.com
 consent.clientemais.paodeacucar.com.data.adobedc.net
 consent.com
 consent.computerweekly.com
+consent.cookiebot.com
 consent.dumont.de
 consent.eadt.co.uk
 consent.easybrain.com
@@ -396620,6 +396618,7 @@ consent.thecomet.net
 consent.theresident.co.uk
 consent.theserverside.com
 consent.tr.adjust.com
+consent.trustarc.com
 consent.tvping.com
 consent.whtimes.co.uk
 consent.wko.at
@@ -396628,6 +396627,7 @@ consent2.gladbachlive.de
 consent2.ksta.de
 consent2.rundschau-online.de
 consentag.eu
+consentcdn.cookiebot.com
 consentedmugged.com
 consentement.quebecor.com
 consentidor.blogspot.com
@@ -398842,6 +398842,7 @@ cookiea1.veinteractive.com
 cookieapi-whatsapp.com
 cookiebar.ideasoft.dev
 cookiebbwescort.com
+cookiebot.com
 cookiecasino.online
 cookiecdn-whatsapp.com
 cookiecheck.criteo.com
@@ -452444,6 +452445,7 @@ desejospecaminosos.blogspot.com
 desejossepaixoes.blogspot.com
 desekansr.com
 desekspagina.nl
+desembolsasinlimitesperu.cloud
 desembolsoinmediato-aplicaenlinea.top
 desempenhoesaudetotal.com
 desen-pl.space
@@ -549869,7 +549871,6 @@ ez69.com
 ez7.top
 ez800phonesexnumbers.com
 ez8h.cfd
-ezKKG26-f4d777af882c6452cf8f08055cfe63e1.jarrodchong.com
 eza11ajsru.kameleoon.io
 ezacash.com
 ezacbjalzjvrb.online
@@ -550065,6 +550066,7 @@ ezkbzmwigo.bid
 ezkccrmvsqzri.site
 ezkfqjqijfjwt.site
 ezkid.icu
+ezkkg26-f4d777af882c6452cf8f08055cfe63e1.jarrodchong.com
 ezknqsblzmsl.com
 ezl.com
 ezleafcover.com
@@ -680152,7 +680154,7 @@ go.zvooq.com
 go.zybrdr.com
 go02.informamarkets.com
 go0dvibes-420.tumblr.com
-go0gIe.com
+go0gie.com
 go0o.me
 go0zlyyks0gohsifqidj1atqqcrvr1791736767.uaid.nmrodam.com
 go1-sc-main-was.adservrs.com
@@ -689622,6 +689624,7 @@ graph-transparencymeta.my.id
 graph.accountkit.com
 graph.atlassolutions.com
 graph.bluecava.com
+graph.facebook.com
 graph.fbpigeon.com
 graph.gcloud.bluecava.com
 graph.instagram.com
@@ -693884,6 +693887,7 @@ grounded-opposite.com
 groundedmine.com
 groundedoutlet.com
 groundela.co
+groundhog.mapsnode.com
 groundies-de.com
 groundies.at
 groundiesdeutsch.de
@@ -700250,7 +700254,7 @@ gwrpceo.cn
 gwrqslmseajux.site
 gwrsdgwregeasfef.blogspot.com
 gwrsyyrghwnuo.space
-gwrtdp-tn690BFAdt.tclclouds.com
+gwrtdp-tn690bfadt.tclclouds.com
 gwrtdp.tclclouds.com
 gwrzyjns.dreamwp.com
 gws-powercell.de
@@ -765762,6 +765766,7 @@ i.imwx.com
 i.indoleads.com
 i.ingage.tech
 i.inspi-dsp.com
+i.instagram.com
 i.interia.pl
 i.io.com.ua
 i.ipromote.com
@@ -814644,7 +814649,6 @@ j9sgwz.mtrak.pl
 j9v5v4758b.kameleoon.eu
 j9w2aywlpu.data.adobedc.net
 j9yvvyc.591books.xyz
-jNKmS0zFuEh.click
 ja-2070.tumblr.com
 ja-ant.com
 ja-ik.com
@@ -831200,6 +831204,7 @@ jnk.mybluehost.me
 jnkjyy.com
 jnkkorea.com
 jnkmhn.com
+jnkms0zfueh.click
 jnkqf.com
 jnkqnf.cifraclub.com
 jnkqnf.cifraclub.com.br
@@ -906332,7 +906337,6 @@ liveexpert.ru
 livefap.net
 livefatcams.com
 livefatporn.com
-livefbdrhO.terbaru-2023.com
 livefbdrho.terbaru-2023.com
 livefeeds.nu
 livefeedz.com
@@ -973989,7 +973993,9 @@ metlife.inq.com
 metlife.sc.omtrdc.net
 metlife.touchcommerce.com
 metlifeah.inq.com
+metlifemarket.com
 metlifemarket.org
+metlifeperinsurance.com
 metlspan.xxx
 metlynew.cfd
 metmodellove.tumblr.com
@@ -1049268,6 +1049274,7 @@ ngfgohinubvbw.online
 ngfkrduait.com
 ngforanoppor.info
 ngfruitiesmatc.info
+ngfts.lge.com
 ngfv.formpr.top
 nggayrimenkulyatirim.com
 nggc503.cn
@@ -1061097,7 +1061104,7 @@ np15kt.cdn-settings.appsflyersdk.com
 np15kt.conversions.appsflyersdk.com
 np15kt.launches.appsflyersdk.com
 np1y8f.top
-np3.Jkub.com
+np3.jkub.com
 np464.com
 np55.one
 np6.eu
@@ -1214515,6 +1214522,7 @@ privacyplace.com
 privacyporno.com
 privacyporno.net
 privacyporno.ws
+privacyportal.onetrust.com
 privacyprotect.org
 privacyprotector.com
 privacysafe.click
@@ -1240515,7 +1240523,7 @@ q9iyje.launches.appsflyersdk.com
 q9p27uhyphee77k0ibriqm68uowy11791619197.uaid.nmrodam.com
 q9ss0yqwa.com
 q9stag.rmcnetwork.ca.102.112.2o7.net
-q9uvveypiB.notepod2.com
+q9uvveypib.notepod2.com
 q9v7vw-cdn-settings.appsflyersdk.com
 q9v7vw-dlsdk.appsflyersdk.com
 q9v7vw-dynamic-report-api.appsflyersdk.com
@@ -1268466,6 +1268474,7 @@ redirectme.netorg.2.0.myoas.net.obs.cn-north-1.myhuaweicloud.com
 redirectnet.net
 redirectoffchain.com
 redirector.c.googlesyndication.com
+redirector.googlevideo.com
 redirector.pickbon.us
 redirector.popcash.net
 redirector.whosthat.mobi
@@ -1297128,6 +1297137,7 @@ s.yieldmrm.com
 s.yjtag.jp
 s.yorkregion.com
 s.youmi.net
+s.youtube.com
 s.yunqu.youxi.com
 s.zfctrack.net
 s.zhctrack.net
@@ -1313092,6 +1313102,7 @@ sdk.playtem.com
 sdk.pop-convert.com
 sdk.postscript.io
 sdk.primis-tech.org
+sdk.privacy-center.org
 sdk.ptqy.gitv.tv
 sdk.pulse.schibsted.com
 sdk.push.mob.com
@@ -1393429,6 +1393440,7 @@ shidareyanagi.com
 shidazuqiuappwangzhan.com
 shidemenchuang.com
 shidn.com
+shido.market
 shiek1ph.com
 shiekh-shoes.ojrq.net
 shield-client-analytics-ingress-prod.nonpci.prod.apay.apple.com.v.aaplimg.com
@@ -1476778,6 +1476790,7 @@ sunstrokeeastcookie.com
 sunstrokeload.com
 sunsumbakingisiss.blogspot.com
 sunsweet.info
+sunsystems.hk
 suntago24info.eu
 suntaliaenerji.com
 suntana.se
@@ -1489968,6 +1489981,7 @@ t.paulaner-gruppe.de
 t.pavelp.cz
 t.pbr.com
 t.pennathletics.com
+t.pepperjamnetwork.com
 t.perigold.com
 t.perjeta.com
 t.personaldevelopmentschool.com
@@ -1627832,6 +1627846,7 @@ vk-wall.org
 vk-xxx.com
 vk-xxx.ru
 vk.binnpro.xyz
+vk.com
 vk.gy
 vk00ygas66ka7gqzwnrtcswv0ibbs1790715415.uaid.vtwenty.com
 vk1.top
@@ -1659092,6 +1659107,7 @@ widgets.oddschecker.com
 widgets.openli.com
 widgets.outbrain.com
 widgets.pexi.nl
+widgets.pinterest.com
 widgets.planeta.ru
 widgets.progrids.com
 widgets.recruitology.com
@@ -1684585,10 +1684601,6 @@ www.9youwang.com
 www.9yspkomgq.com
 www.9z6p1shhsh.top
 www.9zpg.net
-www.Jiddelec12098900.maquiladoslaser.com
-www.Ommerborn30698900.3b8-y.com
-www.Technikerservice67798900.maquiladoslaser.com
-www.TradeInsights.net
 www.a--ds.com
 www.a-3c3o.sbs
 www.a-5.info
@@ -1801498,6 +1801510,7 @@ www.jicjames.com
 www.jickajogxkwer.life
 www.jicypigra.com
 www.jiczbxbmtefhk.store
+www.jiddelec12098900.maquiladoslaser.com
 www.jidlvevpwezmu.online
 www.jidynea.com
 www.jidynea.lovable.app
@@ -1846318,6 +1846331,7 @@ www.omlaty.com
 www.omlogiticspackers.com
 www.omlojtabvsz.in
 www.ommateabeanos.com
+www.ommerborn30698900.3b8-y.com
 www.ommoney-cryp.com
 www.ommwrhyrcbgl.com
 www.ommzokyc.com
@@ -1902889,6 +1902903,7 @@ www.technik-schnaeppchen-shop.de
 www.technika-zarabiania.waw.pl
 www.technikambiente-gmbh.de
 www.technikcenter24.com
+www.technikerservice67798900.maquiladoslaser.com
 www.technikhaus24.com
 www.techniklager.com
 www.technines.com
@@ -1910171,6 +1910186,7 @@ www.tradeinfo.info
 www.tradeinfo.life
 www.tradeinn.fr
 www.tradeins.ru
+www.tradeinsights.net
 www.tradeinvesthub.ru
 www.tradeinvestmentworld.com
 www.tradeis.info
@@ -1999589,6 +1999605,7 @@ z-lib.wiki
 z-lib.ws
 z-loading.icu
 z-m-f09f8e3fc80-djixgoaf1793188684-sonar.xz.fbcdn.net
+z-m-graph.facebook.com
 z-miasta.waw.pl
 z-milosci.pl
 z-na.amazon-adsystem.com
