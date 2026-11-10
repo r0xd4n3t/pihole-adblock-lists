@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+  <a href="#try-it-free">Try It Free</a> •
   <a href="#overview">Overview</a> •
   <a href="#why-use-this-repository">Why Use This Repository</a> •
   <a href="#whats-included">What’s Included</a> •
@@ -29,6 +30,35 @@
   <a href="#update-schedule">Update Schedule</a> •
   <a href="#contributing">Contributing</a>
 </p>
+
+---
+
+<h2 align="center" id="try-it-free">✨ Try This Blocklist for Free</h2>
+
+<p align="center">
+  Experience filtering from <a href="pihole_adlists.txt"><code>pihole_adlists.txt</code></a> through <strong>Meraviox Public Secure DNS</strong>.<br>
+  <strong>Free for a limited time. No registration required.</strong>
+</p>
+
+<p align="center">
+  <a href="https://status.meraviox.com/">
+    <img src="https://img.shields.io/badge/Free_to_Try-22c55e?style=for-the-badge" alt="Free to try">
+    <img src="https://img.shields.io/badge/No_Registration-0ea5e9?style=for-the-badge" alt="No registration required">
+    <img src="https://img.shields.io/badge/Limited_Time-f59e0b?style=for-the-badge" alt="Limited-time offer">
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://status.meraviox.com/">Try Meraviox DNS →</a></strong><br>
+  Open the setup guides, choose an available DNS option, and follow the instructions for your device.<br>
+  <sub>Setup guides and live service status are available on the same page.</sub>
+</p>
+
+> **Test server · Proof of Concept (PoC)**
+>
+> This server is for testing and demonstration only. Limited resources mean DNS responses may be slow, and the service is not intended for continuous, everyday use.
+>
+> Providing a reliable free DNS filtering service at scale requires substantial infrastructure and operating costs. This limited-time PoC lets you try the filtering before any larger investment.
 
 ---
 
